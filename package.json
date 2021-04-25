@@ -1,0 +1,26 @@
+{
+  "name": "newrbygroceriesservices",
+  "version": "1.0.0",
+  "description": "services for client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brijeshr-81/Near.By.Groceries.Services.git"
+  },
+  "keywords": [
+    "services",
+    "nearbygroceries"
+  ],
+  "author": "Brijesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brijeshr-81/Near.By.Groceries.Services/issues"
+  },
+  "homepage": "https://github.com/brijeshr-81/Near.By.Groceries.Services#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
